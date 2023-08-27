@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/welcome-to-my-profile.gif' width='60%'>
+  <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/welcome-to-my-profile.gif' width='100%'>
   <br><br>
   <h2>
     <!-- Introduction -->
@@ -16,7 +16,7 @@
 - 🌱 Experienced in building analytics applications and generating insights from statistics
 - 🔭 I’m currently working on FPL prediction modeling and options trading analytics
 - 🦾 Motto: Disadvantages are a blessing so never give up
-- ⚡ Fun fact: [Interesting Fun Fact About Yourself].
+- ⚡ Fun fact: I'm a die-hard Liverpool FC fan - YNWA
 
 <!-- My Tech Stack -->
 <h3> 🛠 Tech Stack </h3>
@@ -26,18 +26,18 @@
 - 🛢️ [Technology 3]
 - ⚙️ [Technology 4]
 
-<!-- GitHub Stats -->
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 <!-- Top Languages -->
-### Top Languages
+<h3> 🖥 Top Languages </h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Willyiam723&layout=compact&theme=radical)
+
+<!-- GitHub Stats -->
+<!-- <h3> GitHub Stats </h3> -->
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willyiam723&show_icons=true&theme=radical) -->
 
 <!-- Recent Activity -->
-### Recent Activity
+<h3> 🏃‍♂️ Recent Activity </h3>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#x](https://github.com/yourusername/repo-link/pull/x) in [Repo Name](https://github.com/yourusername/repo-link)
@@ -46,10 +46,10 @@
 <!--END_SECTION:activity-->
 
 <!-- Let's Connect -->
-### Let's Connect
+<h3> 🤝 Let's Connect </h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=your-linkedin-profile-link)](your-linkedin-profile-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=your-twitter-profile-link)](your-twitter-profile-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://ca.linkedin.com/in/william-zhen-dong-cfa-frm-mma-43128378)](https://ca.linkedin.com/in/william-zhen-dong-cfa-frm-mma-43128378)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=willyiam723@gmail.com)](willyiam723@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-ff5733?style=flat-square&link=your-website-link)](your-website-link)
 
 <!-- Thank You -->
