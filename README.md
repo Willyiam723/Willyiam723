@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Willyiam723/Willyiam723/tree/master/config/welcome-to-my-profile.gif" width="60%">
+<p align='center'>
+  <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/welcome-to-my-profile.gif' width='60%'>
   <br><br>
   <h2>
     <!-- Introduction -->
