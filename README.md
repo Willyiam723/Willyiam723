@@ -35,34 +35,33 @@
 <!-- GitHub Stats -->
 <!-- <h3> GitHub Stats </h3> -->
 
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willyiam723&show_icons=true&theme=radical) --> -->
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willyiam723&show_icons=true&theme=radical) -->
 
 <!-- Top Projects -->
 <h3> 🚀 Top Projects </h3>
 
 <!--START_SECTION: top projects-->
-<h4> 🔮 **[FPL Prediction](https://github.com/Willyiam723/fpl)** </h4>
+- 🔮 **[FPL Prediction](https://github.com/Willyiam723/fpl)**
 
-- A data science project predicting player gameweek points for Fantasy Premier League football
-- Aims to highlight actionable insights and develop machine learning models that predict player total points for upcoming English Premiew League fixtures
+  - A data science project predicting player gameweek points for Fantasy Premier League football
+  - Aims to highlight actionable insights and develop machine learning models that predict player total points for upcoming English Premiew League fixtures
 
-<h4> ⚖ **[Liquidity and Leverage Scenario Simulation Platform](https://github.com/Willyiam723/finalproject)** </h4>
+- ⚖ **[Liquidity and Leverage Scenario Simulation Platform](https://github.com/Willyiam723/finalproject)**
 
-- Scenario simulation platform for traders or fund managers
-- A platform for fund managers to find the optimal trade offs on liquidity and leverage in various market scenarios
+  - Scenario simulation platform for traders or fund managers
+  - A platform for fund managers to find the optimal trade offs on liquidity and leverage in various market scenarios
 
-<h4> 🗼 **[Zelda Protector, a tower defense game](https://github.com/Willyiam723/finalproject)** </h4>
+- 🗼 **[Zelda Protector, a tower defense game](https://github.com/Willyiam723/finalproject)**
 
-- An object oriented game made using Lua and Love2D
-- Players build protector characters that holds various weapons using mouse clicks to defend Zelda and accumulate points
-  <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/Zelda-protector-game-play.gif' width = 50%>
+  - An object oriented game made using Lua and Love2D
+  - Players build protector characters that holds various weapons using mouse clicks to defend Zelda and accumulate points
+    <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/Zelda-protector-game-play.gif' width = 50%>
 
-<h4> 🛫 **[Financial Planning App](https://github.com/Willyiam723/finalproject)** </h4>
+- 🛫 **[Financial Planning App](https://github.com/Willyiam723/finalproject)**
 
-- A python application that helps user to determine an appropriate asset allocation for their long-term financial planning 
-- The app will first prompt user for financial related questions consisting of 8 multiple choice questions, then output an optimal asset allocation mix for the user 
-
-  <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/financial-planning-app.png' width = 50%>
+  - A python application that helps user to determine an appropriate asset allocation for their long-term financial planning 
+  - The app will first prompt user for financial related questions consisting of 8 multiple choice questions, then output an optimal asset allocation mix for the user 
+    <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/financial-planning-app.png' width = 50%>
 
 <!--END_SECTION: top projects-->
 
