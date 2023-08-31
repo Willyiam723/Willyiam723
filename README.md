@@ -46,21 +46,27 @@
   - A data science project predicting player gameweek points for Fantasy Premier League football
   - Aims to highlight actionable insights and develop machine learning models that predict player total points for upcoming English Premiew League fixtures
 
+    <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/fpl-prediction.png' width = 50%>
+
 - ⚖ **[Liquidity and Leverage Scenario Simulation Platform](https://github.com/Willyiam723/finalproject)**
 
   - Scenario simulation platform for traders or fund managers
   - A platform for fund managers to find the optimal trade offs on liquidity and leverage in various market scenarios
 
+    <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/liquidity-leverage-scenario-simulation-platform.gif' width = 50%>
+
 - 🗼 **[Zelda Protector, a tower defense game](https://github.com/Willyiam723/finalproject)**
 
   - An object oriented game made using Lua and Love2D
   - Players build protector characters that holds various weapons using mouse clicks to defend Zelda and accumulate points
+  
     <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/Zelda-protector-game-play.gif' width = 50%>
 
 - 🛫 **[Financial Planning App](https://github.com/Willyiam723/finalproject)**
 
   - A python application that helps user to determine an appropriate asset allocation for their long-term financial planning 
-  - The app will first prompt user for financial related questions consisting of 8 multiple choice questions, then output an optimal asset allocation mix for the user 
+  - The app will prompt user for financial preference questions in multiple choice format, then output an optimal asset allocation mix for the user
+
     <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/financial-planning-app.png' width = 50%>
 
 <!--END_SECTION: top projects-->
