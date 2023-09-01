@@ -55,14 +55,14 @@
 
     <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/liquidity-leverage-scenario-simulation-platform.gif' width = 50%>
 
-- 🗼 **[Zelda Protector, a tower defense game](https://github.com/Willyiam723/finalproject)**
+- 🗼 **[Zelda Protector, a tower defense game](https://github.com/Willyiam723/zelda-protector)**
 
   - An object oriented game made using Lua and Love2D
   - Players build protector characters that holds various weapons using mouse clicks to defend Zelda and accumulate points
   
     <img src='https://github.com/Willyiam723/Willyiam723/blob/master/config/Zelda-protector-game-play.gif' width = 50%>
 
-- 🛫 **[Financial Planning App](https://github.com/Willyiam723/finalproject)**
+- 🛫 **[Financial Planning App](https://github.com/Willyiam723/financial-planning-app)**
 
   - A python application that helps user to determine an appropriate asset allocation for their long-term financial planning 
   - The app will prompt user for financial preference questions in multiple choice format, then output an optimal asset allocation mix for the user
@@ -74,9 +74,8 @@
 <!-- Let's Connect -->
 <h3> 🤝 Let's Connect </h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://ca.linkedin.com/in/william-zhen-dong-cfa-frm-mma-43128378)](https://ca.linkedin.com/in/william-zhen-dong-cfa-frm-mma-43128378)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=willyiam723@gmail.com)](willyiam723@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-ff5733?style=flat-square&link=your-website-link)](your-website-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://ca.linkedin.com/in/william-zhen-dong-cfa-frm-mma-43128378)](https://ca.linkedin.com/in/william-zhen-dong-cfa-frm-mma-43128378)
+[![GMail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&mailto:link=willyiam723@gmail.com)](mailto:willyiam723@gmail.com)
 
 <!-- Thank You -->
 Thanks for stopping by and checking out my profile! Feel free to connect and reach out.
